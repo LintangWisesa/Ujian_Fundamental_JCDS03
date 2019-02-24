@@ -8,7 +8,7 @@
 
 Buatlah sebuah __file Python interaktif__ yang mengandung **sebuah function** untuk menentukan nilai **FPB** (_Faktor Persekutuan Besar_) & **KPK** (_Kelipatan Persekutuan Kecil_) dari 2 buah bilangan. Pembahasan seputar FPB & KPK pernah kita pelajari bersama di bangku Sekolah Dasar, masih ingat dong?
 
-- __Case Flow__: Saat diekseskusi, program akan meminta user memasukkan 2 buah angka secara bebas. Kemudian user akan mendapatkan nilai FPB dan KPK dari 2 buah angka yang dimasukkan.
+- __Case Flow__: Saat dieksekusi, program akan meminta user memasukkan 2 buah angka secara bebas. Kemudian user akan mendapatkan nilai FPB dan KPK dari 2 buah angka yang dimasukkan.
 
 - Output yang diharapkan saat file diekseskusi via terminal:
   
@@ -51,7 +51,7 @@ Buatlah sebuah __file Python__ yang mengandung **sebuah return function** untuk 
 
   ![Soal2](./soal2a.png)
 
-- __Case Flow__: Saat diekseskusi, program akan meminta user memasukkan angka secara bebas. Kemudian user akan mendapatkan kategori bilangan dari angka yang dimasukkan, dalam bentuk __list__.
+- __Case Flow__: Saat dieksekusi, program akan meminta user memasukkan angka secara bebas. Kemudian user akan mendapatkan kategori bilangan dari angka yang dimasukkan, dalam bentuk __list__.
 
 - Output yang diharapkan saat file diekseskusi via terminal:
   
@@ -80,7 +80,7 @@ Buatlah sebuah __file Python interaktif__ untuk menyajikan top 5 informasi/berit
 4. [News API - Berita Indonesia - Kesehatan](https://newsapi.org/s/indonesia-health-news-api)
 5. [News API - Berita Indonesia - Sains](https://newsapi.org/s/indonesia-science-news-api)
 
-- __Case Flow__: Saat diekseskusi, program akan menawarkan 5 pilihan berita kepada user, yakni berita seputar _teknologi, bisnis, olahraga, kesehatan_ dan _sains_ di Indonesia. Usai user menentukan pilihan, program akan menyajikan __top 5 judul berita hari__ ini di bidang yang user pilih. _Cukup judul beritanya saja!_
+- __Case Flow__: Saat dieksekusi, program akan menawarkan 5 pilihan berita kepada user, yakni berita seputar _teknologi, bisnis, olahraga, kesehatan_ dan _sains_ di Indonesia. Usai user menentukan pilihan, program akan menyajikan __top 5 judul berita hari__ ini di bidang yang user pilih. _Cukup judul beritanya saja!_
 
 - __Note__: Selesaikan hanya dengan memanfaatkan __requests__ package! News API menyediakan package khusus untuk Python yang dapat Anda install melalui pip ([selengkapnya klik sini](https://newsapi.org/docs/client-libraries/python)):
 
